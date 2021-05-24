@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=OrganizadorNotas
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Estudiantes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nroEstudiantes
+comment1.target=OrganizadorNotas(int)
+comment2.params=
+comment2.target=java.lang.String\ anadirNotas()
+comment3.params=
+comment3.target=java.lang.String\ promedioNotas()
+comment4.params=
+comment4.target=java.lang.String\ promedioAprobados()
+comment5.params=
+comment5.target=java.lang.String\ cantReprobados()
+comment6.params=
+comment6.target=java.lang.String\ cantAprobados()
+comment7.params=
+comment7.target=java.lang.String\ notaMasAlta()
+numComments=8
